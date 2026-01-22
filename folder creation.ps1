@@ -1,4 +1,4 @@
-$path = "C:\AutomationLab"
+$path = "C:\Users\darzn\OneDrive\Desktop\Github Repos\Automation-Configuration-Management\ACM-Lab"
 
 if (!(Test-Path $path)) {
     New-Item -ItemType Directory -Path $path
